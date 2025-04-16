@@ -1,1 +1,7 @@
 /.quarto/
+
+/venv/
+venv/
+__pycache__/
+*.pyc
+.python-version
