@@ -1,0 +1,22 @@
+---
+title: "Curriculum Vitae"
+format: 
+  html:
+    toc: false
+    css: styles.css
+---
+
+<div class="cv-container">
+
+```{=html}
+
+<embed src="images/Edwin_Leck_Resume.pdf" type="application/pdf" width="100%" height="600px" class="cv-preview">
+
+</div>
+<style> .cv-container { margin: 2rem 0; } .cv-download { text-align: center; margin-bottom: 2rem; } .cv-preview { border: 1px solid #eee; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); } .btn-primary { padding: 10px 20px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s; } .btn-primary:hover { background-color: #1a252f; } </style>
+
+<div class="cv-download">
+  <a href="images/Edwin_Leck_Resume.pdf" class="btn btn-primary" download>
+    <i class="fas fa-download"></i> Download Full CV (PDF)
+  </a>
+</div>
