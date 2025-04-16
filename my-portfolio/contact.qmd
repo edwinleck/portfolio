@@ -1,0 +1,21 @@
+---
+title: "Contact"
+---
+
+## Get In Touch
+
+📧 **Email**: [edwinleck@gmail.com](mailto:edwinleek@gmail.com)  
+📱 **Phone**: +65 91887350  
+🔗 **LinkedIn**: [linkedin.com/in/edwinleek](https://linkedin.com/in/edwinleek)  
+
+### Availability
+Seeking internship opportunities from **June - December 2025**
+
+```{html}
+<!-- Simple contact form -->
+<form netlify>
+  <input type="text" name="name" placeholder="Your Name">
+  <input type="email" name="email" placeholder="Your Email">
+  <textarea name="message" placeholder="Your Message"></textarea>
+  <button type="submit">Send</button>
+</form>

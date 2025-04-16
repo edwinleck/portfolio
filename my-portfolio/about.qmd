@@ -1,0 +1,81 @@
+---
+title: "About Me"
+format: 
+  html:
+    toc: false
+    css: styles.css
+---
+
+# Edwin Leck
+
+![Professional Headshot](images/edwin_headshot.jpeg){.rounded .shadow width=200px}
+
+Business Analytics Student | Software Engineer | Entrepreneur
+
+<div class="social-links">
+  <a href="https://linkedin.com/in/edwinleck" target="_blank"><i class="fab fa-linkedin"></i></a>
+  <a href="mailto:edwinleck@gmail.com"><i class="fas fa-envelope"></i></a>
+  <a href="tel:+6591887350"><i class="fas fa-phone"></i></a>
+</div>
+
+## Professional Summary
+
+Fourth-year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence. Recipient of the prestigious IMDA SG Digital Scholarship and NUS Merit Scholarship.
+
+Passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making.
+
+## Education
+
+**National University of Singapore**  
+*Bachelor of Science in Business Analytics*  
+*August 2022 - Present*
+
+- **GPA:** 4.56/5.0 (Summa Cum Laude standing)
+- **Awards:** IMDA SG Digital Scholarship (2024), NUS Merit Scholarship (2022)
+- **Relevant Coursework:**
+  - Data Structures and Algorithms (A+)
+  - Information Technologies in Finance (A)
+  - Computational Methods for Business Analytics (A)
+  - Programming Methodology (A-)
+
+---
+
+## Technical Skills
+
+```{python}
+#| echo: false
+#| column: margin
+skills = {
+    "Programming": ["Python", "Java", "JavaScript", "SQL", "R"],
+    "Cloud & DevOps": ["AWS (S3, EC2, Lambda, RDS)", "Terraform", "Firebase"],
+    "Web Development": ["MERN Stack", "Vue.js", "Express.js", "React"],
+    "Data Tools": ["Power BI", "Tableau", "Google Analytics", "RStudio"],
+    "Other": ["Git", "Trello", "Notion", "Slack"]
+}
+
+print("### Technical Proficiencies")
+for category, items in skills.items():
+    print(f"- **{category}**: " + ", ".join(items))
+```
+
+## Career Highlights
+- Automated cloud infrastructure deployment at GovTech, improving efficiency by 30%
+
+- Developed financial management platform SmarTrack using Vue.js and Firebase
+
+- Founded ATA Sports e-commerce business generating $3,500 monthly profit
+
+- Optimized marketing campaigns at Vantage Markets, increasing performance by 15%
+
+[Download Full Resume](images/Edwin_Leck_Resume.pdf){.btn .btn-primary .mt-3}
+
+## Personal Interests
+When I'm not coding or analyzing data, you can find me:
+
+- 🏃‍♂️ Running marathons (my Asics business keeps me motivated!)
+
+- 🎮 Exploring new tech gadgets and gaming
+
+- 🏀 Playing basketball with NUS Temasek Hall teammates
+
+- 📚 Reading about emerging technologies in cloud computing
