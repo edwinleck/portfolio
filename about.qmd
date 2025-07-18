@@ -10,13 +10,13 @@ format:
 
 ![Professional Headshot](images/edwin_headshot.jpeg){.rounded .shadow width=200px}
 
-Business Analytics Student | Software Engineer | Entrepreneur
+Software Engineer @ Govtech | SG Digital Scholar
 
 ## Professional Summary
 
-Fourth-year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence. Recipient of the prestigious IMDA SG Digital Scholarship and NUS Merit Scholarship.
+Hello! I'm a final year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence.
 
-Passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making.
+I'm passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making.
 
 ## Education
 
@@ -24,7 +24,7 @@ Passionate about leveraging technology to solve complex business problems, with 
 *Bachelor of Science in Business Analytics*  
 *August 2022 - Present*
 
-- **GPA:** 4.56/5.0 (Summa Cum Laude standing)
+- **GPA:** 4.56/5.0
 - **Awards:** IMDA SG Digital Scholarship (2024), NUS Merit Scholarship (2022)
 - **Relevant Coursework:**
   - Data Structures and Algorithms (A+)
@@ -63,15 +63,15 @@ for category, items in skills.items():
 
 - Optimized marketing campaigns at Vantage Markets, increasing performance by 15%
 
-[Download Full Resume](images/Edwin_Leck_Resume.pdf){.btn .btn-primary .mt-3}
+[Download Resume](images/Edwin_Leck_Resume.pdf){.btn .btn-primary .mt-3}
 
 ## Personal Interests
 When I'm not coding or analyzing data, you can find me:
 
-- 🏃‍♂️ Running marathons (my Asics business keeps me motivated!)
+- 🏃‍♂️ Running marathons (my new Garmin watch keeps me motivated!)
 
 - 🎮 Exploring new tech gadgets and gaming
 
-- 🏀 Playing basketball with NUS Temasek Hall teammates
+- 🏑 Playing floorball with my NUS Temasek Hall teammates
 
 - 📚 Reading about emerging technologies in cloud computing
