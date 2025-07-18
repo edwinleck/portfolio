@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download Full CV (PDF)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "NUS Orbital Project | May - Aug 2023\nTechnologies: Vue.js, Firebase, Google Maps API\n\n  \n     View on GitHub\n  \n  \n     View Project Poster\n  \n\n\n\n\nIntelligent planning with drag-and-drop interface\nReal-time collaboration\nFirebase backend for data persistence\n\n\n\n\n\nEnterpreneurial Project | Nov 2022 - Present\nTechnologies: Telegram API, AWS RDS, PostgreSQL\n\n  \n    \n      Founded Asics footwear business ($3.5k/month profit)\n      Built Telegram bot for customer interactions\n      AWS backend infrastructure\n    \n  \n\n\n\n  \n     View on Carousell"
+  },
+  {
+    "objectID": "projects.html#personal-projects",
+    "href": "projects.html#personal-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "NUS Orbital Project | May - Aug 2023\nTechnologies: Vue.js, Firebase, Google Maps API\n\n  \n     View on GitHub\n  \n  \n     View Project Poster\n  \n\n\n\n\nIntelligent planning with drag-and-drop interface\nReal-time collaboration\nFirebase backend for data persistence\n\n\n\n\n\nEnterpreneurial Project | Nov 2022 - Present\nTechnologies: Telegram API, AWS RDS, PostgreSQL\n\n  \n    \n      Founded Asics footwear business ($3.5k/month profit)\n      Built Telegram bot for customer interactions\n      AWS backend infrastructure\n    \n  \n\n\n\n  \n     View on Carousell"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "📧 Email: edwinleck@gmail.com\n📱 Phone: +65 91887350\n🔗 LinkedIn: linkedin.com/in/edwinleck\n\n\nSeeking internship opportunities from June - December 2025\n\n\n \n\n\nSend"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "📧 Email: edwinleck@gmail.com\n📱 Phone: +65 91887350\n🔗 LinkedIn: linkedin.com/in/edwinleck\n\n\nSeeking internship opportunities from June - December 2025\n\n\n \n\n\nSend"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Professional Headshot\n\n\nSoftware Engineer @ Govtech | SG Digital Scholar\n\n\nHello! I’m a final year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence.\nI’m passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making.\n\n\n\nNational University of Singapore\nBachelor of Science in Business Analytics\nAugust 2022 - Present\n\nGPA: 4.56/5.0\nAwards: IMDA SG Digital Scholarship (2024), NUS Merit Scholarship (2022)\nRelevant Coursework:\n\nData Structures and Algorithms (A+)\nInformation Technologies in Finance (A)\nComputational Methods for Business Analytics (A)\nProgramming Methodology (A-)\n\n\n\n\n\n\n\n\n\nProgramming: Python, Java, JavaScript, SQL, R\nCloud & DevOps: AWS (S3, EC2, Lambda, RDS), Terraform, Firebase\nWeb Development: MERN Stack, Vue.js, Express.js, React\nData Tools: Power BI, Tableau, Google Analytics, RStudio\nOther: Git, Trello, Notion, Slack\n\n\n\n\n\n\nAutomated cloud infrastructure deployment at GovTech, improving efficiency by 30%\nDeveloped financial management platform SmarTrack using Vue.js and Firebase\nFounded ATA Sports e-commerce business generating $3,500 monthly profit\nOptimized marketing campaigns at Vantage Markets, increasing performance by 15%\n\nDownload Resume\n\n\n\nWhen I’m not coding or analyzing data, you can find me:\n\n🏃‍♂️ Running marathons (my new Garmin watch keeps me motivated!)\n🎮 Exploring new tech gadgets and gaming\n🏑 Playing floorball with my NUS Temasek Hall teammates\n📚 Reading about emerging technologies in cloud computing"
+  },
+  {
+    "objectID": "about.html#professional-summary",
+    "href": "about.html#professional-summary",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I’m a final year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence.\nI’m passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "National University of Singapore\nBachelor of Science in Business Analytics\nAugust 2022 - Present\n\nGPA: 4.56/5.0\nAwards: IMDA SG Digital Scholarship (2024), NUS Merit Scholarship (2022)\nRelevant Coursework:\n\nData Structures and Algorithms (A+)\nInformation Technologies in Finance (A)\nComputational Methods for Business Analytics (A)\nProgramming Methodology (A-)"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Programming: Python, Java, JavaScript, SQL, R\nCloud & DevOps: AWS (S3, EC2, Lambda, RDS), Terraform, Firebase\nWeb Development: MERN Stack, Vue.js, Express.js, React\nData Tools: Power BI, Tableau, Google Analytics, RStudio\nOther: Git, Trello, Notion, Slack"
+  },
+  {
+    "objectID": "about.html#career-highlights",
+    "href": "about.html#career-highlights",
+    "title": "About Me",
+    "section": "",
+    "text": "Automated cloud infrastructure deployment at GovTech, improving efficiency by 30%\nDeveloped financial management platform SmarTrack using Vue.js and Firebase\nFounded ATA Sports e-commerce business generating $3,500 monthly profit\nOptimized marketing campaigns at Vantage Markets, increasing performance by 15%\n\nDownload Resume"
+  },
+  {
+    "objectID": "about.html#personal-interests",
+    "href": "about.html#personal-interests",
+    "title": "About Me",
+    "section": "",
+    "text": "When I’m not coding or analyzing data, you can find me:\n\n🏃‍♂️ Running marathons (my new Garmin watch keeps me motivated!)\n🎮 Exploring new tech gadgets and gaming\n🏑 Playing floorball with my NUS Temasek Hall teammates\n📚 Reading about emerging technologies in cloud computing"
+  }
+]
