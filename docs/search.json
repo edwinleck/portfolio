@@ -2,7 +2,7 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "title": "Resume",
     "section": "",
     "text": "Download Full CV (PDF)"
   },
@@ -37,43 +37,43 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Edwin Leck",
     "section": "",
-    "text": "Professional Headshot\n\n\nSoftware Engineer @ Govtech | SG Digital Scholar\n\n\nHello! I’m a final year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence.\nI’m passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making.\n\n\n\nNational University of Singapore\nBachelor of Science in Business Analytics\nAugust 2022 - Present\n\nGPA: 4.56/5.0\nAwards: IMDA SG Digital Scholarship (2024), NUS Merit Scholarship (2022)\nRelevant Coursework:\n\nData Structures and Algorithms (A+)\nInformation Technologies in Finance (A)\nComputational Methods for Business Analytics (A)\nProgramming Methodology (A-)\n\n\n\n\n\n\n\n\n\nProgramming: Python, Java, JavaScript, SQL, R\nCloud & DevOps: AWS (S3, EC2, Lambda, RDS), Terraform, Firebase\nWeb Development: MERN Stack, Vue.js, Express.js, React\nData Tools: Power BI, Tableau, Google Analytics, RStudio\nOther: Git, Trello, Notion, Slack\n\n\n\n\n\n\nAutomated cloud infrastructure deployment at GovTech, improving efficiency by 30%\nDeveloped financial management platform SmarTrack using Vue.js and Firebase\nFounded ATA Sports e-commerce business generating $3,500 monthly profit\nOptimized marketing campaigns at Vantage Markets, increasing performance by 15%\n\nDownload Resume\n\n\n\nWhen I’m not coding or analyzing data, you can find me:\n\n🏃‍♂️ Running marathons (my new Garmin watch keeps me motivated!)\n🎮 Exploring new tech gadgets and gaming\n🏑 Playing floorball with my NUS Temasek Hall teammates\n📚 Reading about emerging technologies in cloud computing"
+    "text": "Software Engineer @ Govtech | SG Digital Scholar"
   },
   {
     "objectID": "about.html#professional-summary",
     "href": "about.html#professional-summary",
-    "title": "About Me",
-    "section": "",
-    "text": "Hello! I’m a final year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence.\nI’m passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making."
+    "title": "Edwin Leck",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nHello! I’m a final year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence.\nI’m passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About Me",
-    "section": "",
-    "text": "National University of Singapore\nBachelor of Science in Business Analytics\nAugust 2022 - Present\n\nGPA: 4.56/5.0\nAwards: IMDA SG Digital Scholarship (2024), NUS Merit Scholarship (2022)\nRelevant Coursework:\n\nData Structures and Algorithms (A+)\nInformation Technologies in Finance (A)\nComputational Methods for Business Analytics (A)\nProgramming Methodology (A-)"
+    "title": "Edwin Leck",
+    "section": "Education",
+    "text": "Education\nNational University of Singapore\nBachelor of Science in Business Analytics\nAugust 2022 - Present\n\nGPA: 4.56/5.0\nAwards: IMDA SG Digital Scholarship (2024), NUS Merit Scholarship (2022)\nRelevant Coursework:\n\nData Structures and Algorithms (A+)\nInformation Technologies in Finance (A)\nComputational Methods for Business Analytics (A)\nProgramming Methodology (A-)"
   },
   {
     "objectID": "about.html#technical-skills",
     "href": "about.html#technical-skills",
-    "title": "About Me",
-    "section": "",
-    "text": "Programming: Python, Java, JavaScript, SQL, R\nCloud & DevOps: AWS (S3, EC2, Lambda, RDS), Terraform, Firebase\nWeb Development: MERN Stack, Vue.js, Express.js, React\nData Tools: Power BI, Tableau, Google Analytics, RStudio\nOther: Git, Trello, Notion, Slack"
+    "title": "Edwin Leck",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nTechnical Proficiencies\n\nProgramming: Python, Java, JavaScript, SQL, R\nCloud & DevOps: AWS (S3, EC2, Lambda, RDS), Terraform, Firebase\nWeb Development: MERN Stack, Vue.js, Express.js, React\nData Tools: Power BI, Tableau, Google Analytics, RStudio\nOther: Git, Trello, Notion, Slack"
   },
   {
     "objectID": "about.html#career-highlights",
     "href": "about.html#career-highlights",
-    "title": "About Me",
-    "section": "",
-    "text": "Automated cloud infrastructure deployment at GovTech, improving efficiency by 30%\nDeveloped financial management platform SmarTrack using Vue.js and Firebase\nFounded ATA Sports e-commerce business generating $3,500 monthly profit\nOptimized marketing campaigns at Vantage Markets, increasing performance by 15%\n\nDownload Resume"
+    "title": "Edwin Leck",
+    "section": "Career Highlights",
+    "text": "Career Highlights\n\nAutomated cloud infrastructure deployment at GovTech, improving efficiency by 30%\nDeveloped financial management platform SmarTrack using Vue.js and Firebase\nFounded ATA Sports e-commerce business generating $3,500 monthly profit\nOptimized marketing campaigns at Vantage Markets, increasing performance by 15%\n\nDownload Resume"
   },
   {
     "objectID": "about.html#personal-interests",
     "href": "about.html#personal-interests",
-    "title": "About Me",
-    "section": "",
-    "text": "When I’m not coding or analyzing data, you can find me:\n\n🏃‍♂️ Running marathons (my new Garmin watch keeps me motivated!)\n🎮 Exploring new tech gadgets and gaming\n🏑 Playing floorball with my NUS Temasek Hall teammates\n📚 Reading about emerging technologies in cloud computing"
+    "title": "Edwin Leck",
+    "section": "Personal Interests",
+    "text": "Personal Interests\nWhen I’m not coding or analyzing data, you can find me:\n\n🏃‍♂️ Running marathons (my new Garmin watch keeps me motivated!)\n🎮 Exploring new tech gadgets and gaming\n🏑 Playing floorball with my NUS Temasek Hall teammates\n📚 Reading about emerging technologies in cloud computing"
   }
 ]

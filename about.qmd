@@ -1,16 +1,18 @@
 ---
-title: "About Me"
+title: "Edwin Leck"
 format: 
   html:
     toc: false
     css: styles.css
 ---
 
-# Edwin Leck
+::: {.text-center}
 
-![Professional Headshot](images/edwin_headshot.jpeg){.rounded .shadow width=200px}
+![ ](images/edwin_headshot.jpeg){.rounded .shadow width=250px}
 
 Software Engineer @ Govtech | SG Digital Scholar
+
+:::
 
 ## Professional Summary
 

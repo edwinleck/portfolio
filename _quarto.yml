@@ -1,12 +1,13 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Edwin's Site"
   navbar:
     left:
-      - about.qmd
+      - text: "About"
+        href: about.qmd
       - projects.qmd
       - cv.qmd
       - contact.qmd
@@ -16,7 +17,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
