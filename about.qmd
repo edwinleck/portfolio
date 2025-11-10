@@ -1,79 +1,179 @@
 ---
-title: "Edwin Leck"
+title: ""
 format: 
   html:
     toc: false
-    css: styles.css
 ---
 
-::: {.text-center}
+::: {.hero-section style="background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); color: white; padding: 2rem 6rem 2rem 5rem; text-align: center;"}
 
-![ ](images/edwin_headshot.jpeg){.rounded .shadow width=250px}
+# Hello, I'm Edwin 👋
 
-Software Engineer @ Govtech | SG Digital Scholar
+### SWE Intern @ GovTech | Business Analytics @ NUS
+
+I create solutions that bridge technology and business impact.\
+Currently building at GovTech and studying at NUS.
+
+<div style="margin-top: 2rem;">
+[View My Work](#projects){.btn .btn-warning .btn-lg style="margin: 0.5rem;"} 
+[Get In Touch](#contact){.btn .btn-outline-light .btn-lg style="margin: 0.5rem;"}
+</div>
 
 :::
 
-## Professional Summary
+## About Me {style="margin-top: 2rem;"}
 
-Hello! I'm a final year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence.
+::: {style="display: grid; grid-template-columns: 250px 1fr; gap: 3rem; align-items: start; margin: 2rem 0;"}
 
-I'm passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making.
+::: {}
+![](images/edwin_headshot.jpeg){width=250 style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"}
+:::
 
-## Education
+::: {}
+
+I'm a final-year Business Analytics student at NUS with a passion for turning complex problems into solutions. As an IMDA SG Digital Scholar and software engineer at GovTech, I've learned that the best technology is the kind that makes life easier for people.
+
+**What I enjoy:**
+
+- 🚀 Building solutions that people actually use and love
+- 📊 Making data tell compelling stories  
+- ☁️ Automating the boring stuff
+- 🎯 Learning by doing, fail fast
+:::
+:::
+
+## Projects I'm Proud Of {#projects style="margin-top: 2rem;"}
+
+::: {.card .mb-4 style="border-left: 4px solid #f39c12;"}
+::: {.card-body}
+
+### 🗓️ PocketPlanner
+**Smart itinerary planning with real-time collaboration**
+
+Built during NUS Orbital (May-Aug 2023), PocketPlanner makes trip planning actually enjoyable. Drag-and-drop your way to the perfect itinerary, collaborate with friends in real-time, and never wonder "what's nearby?" again.
+
+**The tech:** Vue.js • Firebase • Google Maps API
+
+<div style="margin-top: 1rem;">
+[View Code](https://github.com/edwinleck/pocketplanner){.btn .btn-primary .btn-sm target="_blank"} 
+[See Poster](images/Edwin_Leck_PocketPlanner.png){.btn .btn-outline-primary .btn-sm}
+</div>
+
+:::
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+
+### 👟 ATA Sports
+**From side hustle to sustainable business**
+
+What started as selling a few pairs of Asics turned into a $3.5k/month e-commerce operation. Built custom automation tools using Telegram bots and AWS to handle everything from customer inquiries to inventory management.
+
+**The impact:** Profitable from month one, taught me more about building for users than any course could.
+
+**The tech:** Telegram API • AWS RDS • PostgreSQL
+
+<div style="margin-top: 1rem;">
+[Visit Store](https://www.carousell.sg/u/allthingsasics/){.btn .btn-primary .btn-sm target="_blank"}
+</div>
+
+:::
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+
+### ☁️ GovTech Infrastructure Automation
+**Making deployments less painful**
+
+Automated cloud infrastructure deployment processes that reduced deployment time by 30%. Because nobody should be manually clicking through AWS console in 2025.
+
+**The tech:** AWS (S3, EC2, Lambda, RDS) • Terraform
+
+:::
+:::
+
+## What I Work With {style="margin-top: 3rem;"}
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;"}
+
+::: {.card}
+::: {.card-body}
+**Languages**  
+Python • Java • JavaScript • SQL • R
+:::
+:::
+
+::: {.card}
+::: {.card-body}
+**Web & Frameworks**  
+React • Vue.js • Express.js • MERN Stack
+:::
+:::
+
+::: {.card}
+::: {.card-body}
+**Cloud & DevOps**  
+AWS • Terraform • Firebase
+:::
+:::
+
+::: {.card}
+::: {.card-body}
+**Data & Analytics**  
+Power BI • Tableau • Google Analytics
+:::
+:::
+
+:::
+
+## Background {style="margin-top: 3rem;"}
+
+::: {.text-center}
 
 **National University of Singapore**  
-*Bachelor of Science in Business Analytics*  
-*August 2022 - Present*
+B.Sc. Business Analytics | GPA: 4.56/5.0 | Aug 2022 - Present
 
-- **GPA:** 4.56/5.0
-- **Awards:** IMDA SG Digital Scholarship (2024), NUS Merit Scholarship (2022)
-- **Relevant Coursework:**
-  - Data Structures and Algorithms (A+)
-  - Information Technologies in Finance (A)
-  - Computational Methods for Business Analytics (A)
-  - Programming Methodology (A-)
+🏆 IMDA SG Digital Scholarship (2024) • 🏆 NUS Merit Scholarship (2022)
 
----
+**Highlights:** Data Structures & Algorithms (A+) • Information Technologies in Finance (A) • Computational Methods (A)
 
-## Technical Skills
+:::
 
-```{python}
-#| echo: false
-#| output: asis
-from IPython.display import Markdown
+## Let's Connect {#contact style="margin-top: 4rem;"}
 
-skills = {
-    "Programming": ["Python", "Java", "JavaScript", "SQL", "R"],
-    "Cloud & DevOps": ["AWS (S3, EC2, Lambda, RDS)", "Terraform", "Firebase"],
-    "Web Development": ["MERN Stack", "Vue.js", "Express.js", "React"],
-    "Data Tools": ["Power BI", "Tableau", "Google Analytics", "RStudio"],
-    "Other": ["Git", "Trello", "Notion", "Slack"]
-}
+::: {.text-center}
 
-display(Markdown("### Technical Proficiencies"))
-for category, items in skills.items():
-    display(Markdown(f"- **{category}**: " + ", ".join(items)))
-```
+I'm looking for internship opportunities from **Jan - May 2026** and full-time roles from **May 2026 onwards**
 
-## Career Highlights
-- Automated cloud infrastructure deployment at GovTech, improving efficiency by 30%
+:::
 
-- Developed financial management platform SmarTrack using Vue.js and Firebase
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 3rem 0;"}
 
-- Founded ATA Sports e-commerce business generating $3,500 monthly profit
+::: {.card .text-center}
+::: {.card-body}
+### 📧 Email
+[edwinleck@gmail.com](mailto:edwinleck@gmail.com)
+:::
+:::
 
-- Optimized marketing campaigns at Vantage Markets, increasing performance by 15%
+::: {.card .text-center}
+::: {.card-body}
+### 📱 Phone
+[+65 9188 7350](tel:+6591887350)
+:::
+:::
 
-[Download Resume](images/Edwin_Leck_Resume.pdf){.btn .btn-primary .mt-3}
+::: {.card .text-center}
+::: {.card-body}
+### 📄 Resume
+[Download PDF](images/Edwin_Leck_Resume.pdf){.btn .btn-warning .btn-sm target="_blank"}
+:::
+:::
 
-## Personal Interests
-When I'm not coding or analyzing data, you can find me:
+:::
 
-- 🏃‍♂️ Running marathons (my new Garmin watch keeps me motivated!)
-
-- 🎮 Exploring new tech gadgets and gaming
-
-- 🏑 Playing floorball with my NUS Temasek Hall teammates
-
-- 📚 Reading about emerging technologies in cloud computing
+::: {.text-center style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--bs-border-color); color: var(--bs-secondary-color);"}
+Built with ❤️ using Quarto
+:::

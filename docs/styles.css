@@ -1,1 +1,82 @@
-/* css styles */
+/* Minimal custom styles to enhance Bootstrap themes */
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Make navbar icons bigger (social icons + dark mode toggle) */
+.quarto-navigation-tool i.bi::before {
+  transform: scale(1.5);
+  display: inline-block;
+}
+
+/* Add padding around the icon links */
+.quarto-navigation-tool {
+  padding: 0.5rem !important;
+}
+
+/* Make cards pop a bit more on hover */
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive grid fix for mobile */
+@media (max-width: 768px) {
+  div[style*="grid-template-columns: 250px 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+
+  img[width="250"] {
+    max-width: 200px;
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+/* Better button spacing */
+.btn {
+  transition: all 0.2s ease;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+.hero-section {
+  border-radius: 30px 30px 30px 30px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Hero section improvements */
+.hero-section h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.hero-section h3 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  opacity: 0.95;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 4rem 1.5rem 3rem !important;
+  }
+
+  .hero-section h1 {
+    font-size: 2rem;
+  }
+
+  .hero-section h3 {
+    font-size: 1.2rem;
+  }
+}

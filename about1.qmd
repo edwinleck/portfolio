@@ -1,0 +1,79 @@
+---
+title: "Edwin Leck"
+format: 
+  html:
+    toc: false
+    css: styles.css
+---
+
+::: {.text-center}
+
+![ ](images/edwin_headshot.jpeg){.rounded .shadow width=250px}
+
+Software Engineer @ Govtech | SG Digital Scholar
+
+:::
+
+## Professional Summary
+
+Hello! I'm a final year Business Analytics student at the National University of Singapore with demonstrated experience in software engineering, data analysis, and business intelligence.
+
+I'm passionate about leveraging technology to solve complex business problems, with expertise in cloud computing, full-stack development, and data-driven decision making.
+
+## Education
+
+**National University of Singapore**  
+*Bachelor of Science in Business Analytics*  
+*August 2022 - Present*
+
+- **GPA:** 4.56/5.0
+- **Awards:** IMDA SG Digital Scholarship (2024), NUS Merit Scholarship (2022)
+- **Relevant Coursework:**
+  - Data Structures and Algorithms (A+)
+  - Information Technologies in Finance (A)
+  - Computational Methods for Business Analytics (A)
+  - Programming Methodology (A-)
+
+---
+
+## Technical Skills
+
+```{python}
+#| echo: false
+#| output: asis
+from IPython.display import Markdown
+
+skills = {
+    "Programming": ["Python", "Java", "JavaScript", "SQL", "R"],
+    "Cloud & DevOps": ["AWS (S3, EC2, Lambda, RDS)", "Terraform", "Firebase"],
+    "Web Development": ["MERN Stack", "Vue.js", "Express.js", "React"],
+    "Data Tools": ["Power BI", "Tableau", "Google Analytics", "RStudio"],
+    "Other": ["Git", "Trello", "Notion", "Slack"]
+}
+
+display(Markdown("### Technical Proficiencies"))
+for category, items in skills.items():
+    display(Markdown(f"- **{category}**: " + ", ".join(items)))
+```
+
+## Career Highlights
+- Automated cloud infrastructure deployment at GovTech, improving efficiency by 30%
+
+- Developed financial management platform SmarTrack using Vue.js and Firebase
+
+- Founded ATA Sports e-commerce business generating $3,500 monthly profit
+
+- Optimized marketing campaigns at Vantage Markets, increasing performance by 15%
+
+[Download Resume](images/Edwin_Leck_Resume.pdf){.btn .btn-primary .mt-3}
+
+## Personal Interests
+When I'm not coding or analyzing data, you can find me:
+
+- 🏃‍♂️ Running marathons (my new Garmin watch keeps me motivated!)
+
+- 🎮 Exploring new tech gadgets and gaming
+
+- 🏑 Playing floorball with my NUS Temasek Hall teammates
+
+- 📚 Reading about emerging technologies in cloud computing

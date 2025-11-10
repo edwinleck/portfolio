@@ -3,21 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "Edwin's Site"
   navbar:
-    left:
-      - text: "About"
-        href: about.qmd
-      - projects.qmd
-      - cv.qmd
-      - contact.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/edwinleck/
+        aria-label: LinkedIn
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://code.com
+          - text: GitHub Account
+            href: https://github.com/edwinleck
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:edwinleck@gmail.com
+        aria-label: Email
   page-footer:
     center: "© 2025 Edwin Leck. All rights reserved."
 
 format:
   html:
+    css: styles.css
     theme:
       light: flatly
       dark: darkly
-    css: styles.css
     toc: true
